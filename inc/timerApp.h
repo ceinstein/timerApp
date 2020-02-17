@@ -5,7 +5,7 @@
  */
 
 #ifndef TIMEAPP_H
-#define TIMEAPP_h
+#define TIMEAPP_H
 
 #include <stdio.h>
 #include <sys/time.h>
